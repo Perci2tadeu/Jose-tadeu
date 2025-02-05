@@ -1,4 +1,4 @@
-### welcome friend
+### Welcome friend
 
 - 🚀 Olá, meu nome é @Jose2tadeu
 - 🌐 UX Design | UI Design | Front End
@@ -8,3 +8,4 @@
 - 📫 Contato - @jtb_digital
 - 🗝️ Confidence is the key to success
 
+###
