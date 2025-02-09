@@ -1,4 +1,4 @@
-### Welcome frien
+### Welcome friend
 
 - 🚀 Olá, meu nome é @Jose2tadeu
 - 🌐 UX Design | UI Design | Front End
